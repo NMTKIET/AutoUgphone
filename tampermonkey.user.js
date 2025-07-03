@@ -4,7 +4,7 @@
 // @version      2.0
 // @description  Ugphone Login
 // @author       NMTKIET
-// @require      https://github.com/KingNotNgu/localstorage/raw/refs/heads/main/ugphone.js
+// @require      
 // @match        https://www.ugphone.com/*
 // @match        https://*.ugphone.com/*
 // @grant        GM_xmlhttpRequest
