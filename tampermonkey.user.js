@@ -4,7 +4,7 @@
 // @version      2.0
 // @description  Ugphone Login
 // @author       NMTKIET
-// @require      
+// @require      https://raw.githubusercontent.com/NMTKIET/AutoUgphone/refs/heads/main/autougphone.js
 // @match        https://www.ugphone.com/*
 // @match        https://*.ugphone.com/*
 // @grant        GM_xmlhttpRequest
